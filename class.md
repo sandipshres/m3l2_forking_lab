@@ -1,3 +1,3 @@
 Name: Sandip Shrestha
 Location: Jonesboro
-Certification: Version Control
+Certification: Version Control(VC)
